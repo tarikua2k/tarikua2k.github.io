@@ -1,0 +1,8 @@
+html, body, #main-container, .img-container {
+  height: 100%;
+}
+
+#leftimg {
+  height: 100%;
+  width: 100%;
+}
